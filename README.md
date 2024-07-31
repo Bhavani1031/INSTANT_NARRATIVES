@@ -12,8 +12,10 @@ Features:
 
 *Real-Time Processing: Captions and speaks out captions for each frame in real-time when using a webcam.
 
+
 Prerequisites:
 Python 3.x
+
 
 Required Python libraries:
 opencv-python 
